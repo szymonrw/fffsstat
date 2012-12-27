@@ -1,0 +1,10 @@
+{
+  "name":        "fffsstat",
+  "fullName":    "Full Screen Status Indicator",
+  "id":          "fffsstat@szywon.pl",
+  "homepage":    "https://github.com/szywon/fffsstat",
+  "license":     "MIT",
+  "author":      "Szymon Witamborski <szywon@szywon.pl> (http://szywon.pl)",
+  "version":     "0.1",
+  "description": "Extension that shows a clock in the panel in full screen mode."
+}
